@@ -4,25 +4,30 @@
 
 ### How to Run the Project
 
-
 - install node througth https://nodejs.org/en
-to check node is installed correctly run:
+  to check node is installed correctly run:
+
 ```sh
 node -v
 ```
+
 - install dependencies in BE
+
 ```sh
 npm install
 ```
+
 - install nodemon globally
+
 ```sh
-npm install -g nodemon 
+npm install -g nodemon
 ```
 
 - to run server
+
 ```sh
 npm run start
 ```
-- to run front end
-install live server vscode extension https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
+- to run front end
+  install live server vscode extension https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
